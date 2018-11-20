@@ -35,7 +35,7 @@ cd AddressBookWebapp
 
 - Populating the Database with sample data.
   - Expand the jdbc:derby://localhost:1527/reservation node.
-  - Right click the **Tables** node and select **Execute Command...** to open a **SQL** editor tab in NetBeans. Add the SQL statements. Right click in the SQL Command editor and select Run File.
+  - Right click the **Tables** node and select **Execute Command...** to open a **SQL** editor tab in NetBeans. Add the SQL statements. Right click in the **SQL Command** editor and select **Run** File.
 
 ## Running the tests
 ### Test the reservation web service.
